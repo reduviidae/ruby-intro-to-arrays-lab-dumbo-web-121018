@@ -14,6 +14,6 @@ def third_element(array)
   return array[2]
 end
 
-def lasts_element(array)
+def last_element(array)
   return array[-1]
 end
