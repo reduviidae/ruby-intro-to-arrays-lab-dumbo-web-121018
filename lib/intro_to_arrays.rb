@@ -11,9 +11,9 @@ def first_element(array)
 end
 
 def third_element(array)
-  array[2]
+  return array[2]
 end
 
 def lasts_element(array)
-  array[-1]
+  return array[-1]
 end
